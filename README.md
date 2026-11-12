@@ -2,7 +2,7 @@
 
 A real-time telemetry and diagnostic tool for local transformer models. Captures intermediate layer states as tokens flow through the architecture and presents them in an interactive terminal interface.
 
-Built in C++.
+Built in C++
 
 ---
 
